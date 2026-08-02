@@ -6,3 +6,4 @@ source-material/
 gpt-input/
 .assets-lock.json
 *.bak
+configs/*.js
